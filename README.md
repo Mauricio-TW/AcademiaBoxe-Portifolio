@@ -1,19 +1,25 @@
-# Academia de Boxe 🥊
+# 🥊 Academia de Boxe - Portfólio
 
-Site profissional e responsivo de academia de boxe, criado para portfólio.
+Site desenvolvido como parte do meu portfólio pessoal.  
+O objetivo é apresentar o design e a estrutura de um site profissional para uma academia de boxe.
 
-## 💻 Tecnologias
+## 💻 Tecnologias Utilizadas
 - HTML5  
 - CSS3  
-- JavaScript  
+- Responsividade Mobile-First  
 
-## 🚀 Visualize online
-[Acesse o site aqui](https://mauricio-tw.github.io/Academia_Boxe/)
+## 📸 Demonstração
+Acesse o site online pelo GitHub Pages:  
+👉 **[https://mauricio-tw.github.io/AcademiaBoxe-Portifolio/](https://mauricio-tw.github.io/AcademiaBoxe-Portifolio/)**
 
-## 📂 Estrutura
-- `/index.html` → Página principal  
-- `/css/` → Estilos  
-- `/img/` → Imagens do projeto  
+## 📂 Estrutura do Projeto
+- `index.html` — página principal  
+- `/css/` — estilos e layout  
+- `/img/` — imagens utilizadas  
+- `/videos/` — vídeos da galeria  
 
----
-Desenvolvido por **Mauricio T. Welter**
+## ✍️ Autor
+**Mauricio T. Welter**  
+Estudante de Análise e Desenvolvimento de Sistemas  
+📍 Porto Alegre - RS  
+[GitHub](https://github.com/Mauricio-TW)
