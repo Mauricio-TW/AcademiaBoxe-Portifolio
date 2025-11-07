@@ -1,6 +1,6 @@
 # Academia de Boxe 🥊
 
-Site profissional de academia de boxe, criado para portfólio.
+Site profissional e responsivo de academia de boxe, criado para portfólio.
 
 ## 💻 Tecnologias
 - HTML5  
